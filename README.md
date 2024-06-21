@@ -38,7 +38,7 @@ enter the cloned repository
 $ cd mtoto_core_nest
 ```
 
-##Running the app
+## Running the app
 
 install dependencies
 ```bash
@@ -56,6 +56,22 @@ $ npm run start:dev
 production mode
 ```bash
 $ npm run start:prod
+```
+## Running tests
+
+ unit tests
+ ```bash
+$ npm run test
+```
+
+e2e tests
+```bash
+$ npm run test:e2e
+```
+
+ test coverage
+ ```bash
+$ npm run test:cov
 ```
 
 
