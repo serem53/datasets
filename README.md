@@ -6,23 +6,30 @@
 
 # Tiny Totos API
 
-Welcome to the Tiny Totos API! This powerful API enables seamless interaction with Tiny Totos' data, enhancing childcare services and operations. Whether you are a developer building applications for parents, guardians, or administrators, our API provides the tools you need.
+Welcome to the Tiny Totos main API! This powerful API enables seamless interaction with Tiny Totos' data, enhancing daycare services and operations.
 
 ## Description
 
-Tiny Totos is dedicated to transforming childcare in Kenya by providing affordable, high-quality services. Our API supports a wide range of functionalities, from managing daycare operations to enhancing parental engagement.
+Tiny Totos is dedicated to transforming childcare in Kenya and beyond by providing daycare managers with a platform to ensure ease of operation and deliver affordable, high-quality services. Our API supports a wide range of functionalities, from managing daycare operations to enhancing parental engagement.
 
 ## Features
 
-- **Guardian Management**: Create, update, and manage guardian details.
-- **Child Enrollment**: Efficiently enroll and manage children's records.
-- **Attendance Tracking**: Keep track of daily attendance effortlessly.
-- **Reporting**: Generate detailed reports on various aspects of daycare operations.
-- **Notifications**: Send notifications to guardians regarding important updates and events.
+## Features
 
+- **Authentication module**: Securely manage user authentication, ensuring that only authorized personnel have access to the platform's features.
+- **Daycare module**: Oversee and manage all daycare operations, creating new daycares,updating existing daycares, viewing daycares either by id or all and deleting daycares.
+- **Children module**: Efficiently enroll and manage children's records, including personal details, medical information, and enrollment status.
+- **Organization module**: Handle organization-level settings and configurations, ensuring that all daycare centers under the organization adhere to standardized policies and procedures.
+- **Cohorts module**: Create and manage cohorts or groups of daycares, enabling tailored activities, curriculum planning, and progress tracking for specific groups or needs.
+- **Guardian module**: Create, update, and manage guardian details, including contact information, relationship to the child, and emergency contacts.
+- **Revenue module**: Monitor and manage financial aspects of the daycare, including fee collection, billing, and financial reporting to ensure sustainable operations.
+- **Attendance module**: Keep track of daily attendance effortlessly, providing accurate records of children's attendance for administrative and safety purposes.
+  
 ## Installation
 
-To get started with the Tiny Totos API, you need to have Node.js installed. Follow the steps below to set up the API on your local machine.
+To get started with the Tiny Totos API, you need to have Node.js and git installed. Follow the steps below to set up the API on your local machine.
 
 ```bash
-$ npm install
+$ git clone https://github.com/TinyTotos/mtoto_core-nest.git
+
+
