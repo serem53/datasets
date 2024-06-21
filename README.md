@@ -31,12 +31,15 @@ in your terminal run the following commands:
 clone repository
 ```bash
 $ git clone https://github.com/TinyTotos/mtoto_core-nest.git
+```
 
 enter the cloned repository
 ```bash
 $ cd mtoto_core_nest
-
+```
+install dependencies
 ```bash
 npm isntall
+```
 
 
