@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://www.drkfoundation.org/wp-content/uploads/2018/08/Tiny-Totos-new-logo.jpg" width="200" alt="Tiny totos logo" /></a>
+  <a href="http://nestjs.com/" target="blank">
+    <img src="https://www.drkfoundation.org/wp-content/uploads/2018/08/Tiny-Totos-new-logo.jpg" width="200" style="max-height: 100px;" alt="Tiny totos logo" />
+  </a>
 </p>
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
