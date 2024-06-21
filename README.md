@@ -28,7 +28,7 @@ Tiny Totos is dedicated to transforming childcare in Kenya and beyond by providi
 To get started with the Tiny Totos API, you need to have Node.js and git installed. Follow the steps below to set up the API on your local machine.
 
 in your terminal run the following commands:
-clone repository
+## cloning repository
 ```bash
 $ git clone https://github.com/TinyTotos/mtoto_core-nest.git
 ```
@@ -37,9 +37,25 @@ enter the cloned repository
 ```bash
 $ cd mtoto_core_nest
 ```
+
+##Running the app
+
 install dependencies
 ```bash
 npm isntall
+```
+ development
+ ```bash
+$ npm run start
+```
+watch mode
+```bash
+$ npm run start:dev
+```
+
+production mode
+```bash
+$ npm run start:prod
 ```
 
 
