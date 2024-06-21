@@ -14,8 +14,6 @@ Tiny Totos is dedicated to transforming childcare in Kenya and beyond by providi
 
 ## Features
 
-## Features
-
 - **Authentication module**: Securely manage user authentication, ensuring that only authorized personnel have access to the platform's features.
 - **Daycare module**: Oversee and manage all daycare operations, creating new daycares,updating existing daycares, viewing daycares either by id or all and deleting daycares.
 - **Children module**: Efficiently enroll and manage children's records, including personal details, medical information, and enrollment status.
@@ -29,7 +27,16 @@ Tiny Totos is dedicated to transforming childcare in Kenya and beyond by providi
 
 To get started with the Tiny Totos API, you need to have Node.js and git installed. Follow the steps below to set up the API on your local machine.
 
+in your terminal run the following commands:
+clone repository
 ```bash
 $ git clone https://github.com/TinyTotos/mtoto_core-nest.git
+
+enter the cloned repository
+```bash
+$ cd mtoto_core_nest
+
+```bash
+npm isntall
 
 
