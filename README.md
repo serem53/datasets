@@ -101,9 +101,9 @@ For inquiries about Tiny Totos or support with the API, please contact us:
 
 - **Email**: info@tinytotos.com
 - **Website**: [www.tinytotos.com](https://www.tinytotos.com)
-- **Phone**: +
+  
 
-Feel free to reach out to us with any questions, feedback, or partnership opportunities!
+Feel free to reach out to us with any questions or feedback.
 
 ---
 
