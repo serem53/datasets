@@ -74,4 +74,39 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+# ORM and CONTAINERISATION
+The Tiny Totos API uses Prisma as its ORM (Object-Relational Mapping) tool for database interactions. Additionally, we have dockerized the application for easier deployment. To run the application using Docker, ensure you have Docker installed and then execute:
+```bash
+$ docker-compose up -d
+```
+This command will create and run the containerized application from the defined image in the docker file.
+
+## Contributors
+
+This project is maintained by the following contributors:
+
+- MaxWell Iragu  
+- Baraka Mulumia 
+- Benard Kimiri
+- Trevor Serem
+- Steve Ouko
+
+## License
+
+This project is licensed under the MIT License. See the [MIT](./LICENSE) file for more details.
+
+## Contact
+
+For inquiries about Tiny Totos or support with the API, please contact us:
+
+- **Email**: info@tinytotos.com
+- **Website**: [www.tinytotos.com](https://www.tinytotos.com)
+- **Phone**: +
+
+Feel free to reach out to us with any questions, feedback, or partnership opportunities!
+
+---
+
+For detailed documentation on using the Tiny Totos API, refer to [docs](https://tinytotos.atlassian.net/wiki/spaces/MW/pages/18055171/Mtoto-Web+SAAS+Architecture).
+
 
